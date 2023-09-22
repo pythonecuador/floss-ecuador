@@ -20,7 +20,7 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
   - [Firma electrónica](#firma-electr%C3%B3nica)
   - [Hacking](#hacking)
   - [IoT (Internet de las cosas)](#iot-internet-de-las-cosas)
-- [Odoo](#odoo)
+  - [Odoo](#odoo)
   - [Sistemas operativos](#sistemas-operativos)
   - [Utilidades](#utilidades)
 - [Comunidades](#comunidades-1)

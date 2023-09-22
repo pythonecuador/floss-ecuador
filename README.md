@@ -9,6 +9,13 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 
 ## Software
 
+Lista de software de código abierto y libre desarrollado por Ecuatorianos.
+Algunos proyectos tienen un emoji que indica su estado actual:
+
+- Sin emoji: proyectos que están siendo mantenidos.
+- 🚧: proyectos que aún están en progreso.
+- 🗃️: proyectos que han sido archivados, que ya no están siendo mantenidos.
+
 ### Comunidades
 
 - [python.ec](https://github.com/pythonecuador/pythonecuador.github.io) - Página web de la comunidad de Python Ecuador.
@@ -37,8 +44,9 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 ### Utilidades
 
 - [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template) - Template del formato IEEE para pandoc.
-- [tree-sitter-rst](https://github.com/stsewd/tree-sitter-rst/) - Grammar de reStructuredText para tree-sitter.
 - [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment/) - Grammar de tags de comentario para tree-sitter.
+- [tree-sitter-rst](https://github.com/stsewd/tree-sitter-rst/) - Grammar de reStructuredText para tree-sitter.
+- [lira](https://github.com/pythonecuador/lira) - 🚧 Tutoriales interactivos en tu terminal.
 
 ## Comunidades
 
@@ -46,4 +54,16 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 
 ## Cómo contribuir
 
-TBD
+Puedes leer la guía de contribución [aquí](CONTRIBUTING.md).
+
+## TODO
+
+- [ ] Agregar más proyectos.
+- [ ] Agregar más comunidades.
+- [ ] Agregar más categorías.
+- [ ] Agregar un script para generar la tabla de contenido.
+- [ ] Agregar un script para chequear los links.
+- [ ] Agregar un script para chequear la ortografía.
+- [ ] Agregar un script para generar un archivo JSON/CSV con los proyectos y comunidades.
+- [ ] Agregar un script que ordene los proyectos y comunidades de forma alfabética.
+- [ ] CI.

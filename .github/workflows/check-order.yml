@@ -15,4 +15,7 @@ jobs:
         with:
           python-version: '3.11' 
 
+      - name: Add Spanish locale
+        run: sudo locale-gen es_ES.UTF-8
+
       - run: python scripts/check_order.py

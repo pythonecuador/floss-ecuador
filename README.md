@@ -85,6 +85,10 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 [Categoría vacía]
 
+### Videojuegos
+
+[Categoría vacía]
+
 ### Utilidades
 
 - [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template) - Template del formato IEEE para pandoc.

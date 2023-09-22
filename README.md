@@ -148,7 +148,7 @@ Siéntete libre de crear un issue para discutirlo.
 - [ ] Agregar más comunidades.
 - [ ] Agregar más categorías.
 - [x] Agregar un script para generar la tabla de contenido.
-- [ ] Agregar un script para chequear los links.
+- [x] Agregar un script para chequear los links.
 - [ ] Agregar un script para chequear la ortografía.
 - [ ] Agregar un script para generar un archivo JSON/CSV con los proyectos y comunidades.
 - [ ] Agregar un script que ordene los proyectos y comunidades de forma alfabética.

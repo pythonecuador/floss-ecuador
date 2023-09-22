@@ -19,4 +19,4 @@ jobs:
         run: npm install -g markdown-link-check
 
       - name: Check links
-        run: markdown-link-check --config ./README.md
+        run: markdown-link-check ./README.md

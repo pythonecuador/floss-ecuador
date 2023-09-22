@@ -18,6 +18,10 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 - [fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim/) - Plugin de Vim/Neovim para gestionar los branches y tag de Git con fzf.
 - [spofity.nvim](https://github.com/stsewd/spotify.nvim/) - Integración de Spotify para Neovim.
 
+### Firma electrónica
+
+- [validador-firmaec](https://github.com/ragutierrez/validador-firmaec) - Validador de documentos firmados electrónicamente usando la API del MINTEL.
+
 ### Hacking
 
 [Categoría vacía]

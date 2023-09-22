@@ -77,7 +77,7 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 [Categoría vacía]
 
-## Odoo
+### Odoo
 
 [Categoría vacía]
 

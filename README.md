@@ -158,7 +158,7 @@ Siéntete libre de crear un issue para discutirlo.
 - [ ] Agregar un script para generar un archivo JSON/CSV con los proyectos y comunidades.
 - [ ] Agregar un script que ordene los proyectos y comunidades de forma alfabética.
 - [ ] CI.
-- [ ] Elegir otro nombre?
+- [ ] Elegir otro nombre? Tal vez awesome-floss-ecuador? y aplicar para awesome-lists?
 - [ ] Crear un badge para mostrar en los proyectos y comunidades listadas?
 - [ ] Ampliar el enfoque a todo lo relacionado al código abierto y libre del Ecuador?
 - [ ] Decidir los términos a usar: código abierto, open source o código libre, free software o software libre, etc.

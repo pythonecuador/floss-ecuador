@@ -162,3 +162,4 @@ Siéntete libre de crear un issue para discutirlo.
 - [ ] Crear un badge para mostrar en los proyectos y comunidades listadas?
 - [ ] Ampliar el enfoque a todo lo relacionado al código abierto y libre del Ecuador?
 - [ ] Decidir los términos a usar: código abierto, open source o código libre, free software o software libre, etc.
+- [ ] Agregar templates para agregar un nuevo proyecto o comunidad, PR, issue, etc

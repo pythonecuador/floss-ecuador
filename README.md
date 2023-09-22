@@ -22,6 +22,7 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
   - [IoT (Internet de las cosas)](#iot-internet-de-las-cosas)
   - [Odoo](#odoo)
   - [Sistemas operativos](#sistemas-operativos)
+  - [Videojuegos](#videojuegos)
   - [Utilidades](#utilidades)
 - [Comunidades](#comunidades-1)
 - [Cómo contribuir](#c%C3%B3mo-contribuir)

@@ -22,12 +22,13 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
   - [IoT (Internet de las cosas)](#iot-internet-de-las-cosas)
   - [Odoo](#odoo)
   - [Sistemas operativos](#sistemas-operativos)
-  - [Videojuegos](#videojuegos)
   - [Utilidades](#utilidades)
-- [Otros](#otros)
+  - [Video juegos](#video-juegos)
+  - [Otros](#otros)
 - [Comunidades](#comunidades-1)
 - [Cómo contribuir](#c%C3%B3mo-contribuir)
 - [FAQ](#faq)
+- [Licencia](#licencia)
 - [TODO](#todo)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

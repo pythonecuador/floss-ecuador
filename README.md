@@ -1,9 +1,9 @@
 # Software Libre y Open Source del Ecuador
 
+¡Descubre el mundo del software libre y open source del Ecuador!
+
 Este proyecto tiene como objetivo principal reunir y destacar software de código abierto y libre desarrollado por Ecuatorianos, y comunidades del Ecuador dedicadas a ello.
 Aquí encontrarás una colección diversa de proyectos de software que reflejan el espíritu de colaboración y la creatividad de la comunidad de código abierto en Ecuador.
-
-¡Únete a nosotros y descubre el mundo del software libre y open source del Ecuador!
 
 ## Contenido
 

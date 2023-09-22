@@ -64,6 +64,8 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 ## Comunidades
 
+Lista de comunidades del Ecuador dedicadas o con un enfoque hacia el software libre y open source.
+
 - [JavaScript Ecuador](https://javascript.ec): Comunidad sobre el lenguaje de programación JavaScript.
 - [Python Ecuador](https://python.ec): Comunidad sobre el lenguaje de programación Python.
 

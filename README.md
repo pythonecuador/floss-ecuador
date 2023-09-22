@@ -86,15 +86,15 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 [Categoría vacía]
 
-### Videojuegos
-
-[Categoría vacía]
-
 ### Utilidades
 
 - [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template) - Template del formato IEEE para pandoc.
 
-## Otros
+### Video juegos
+
+[Categoría vacía]
+
+### Otros
 
 - [lira](https://github.com/pythonecuador/lira) - 🚧 Tutoriales interactivos en tu terminal.
 - [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment/) - Grammar de tags de comentarios para tree-sitter.
@@ -114,6 +114,13 @@ Puedes leer la guía de contribución [aquí](CONTRIBUTING.md).
 ## FAQ
 
 Puedes encontrar una lista de preguntas frecuentes [aquí](FAQ.md).
+
+## Licencia
+
+El contenido de este proyecto, excepto por la carpeta `scripts`,
+está bajo la licencia [CC-BY-4.0](LICENSE).
+
+El contenido de la carpeta `scripts` está bajo la licencia [MIT](scripts/LICENSE).
 
 ## TODO
 

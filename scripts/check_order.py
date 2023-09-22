@@ -90,7 +90,7 @@ def check_subcategories_order(
             sub_categories.pop()
 
     # Sort categories using spanish locale.
-    locale.setlocale(locale.LC_ALL, "es_ES")
+    locale.setlocale(locale.LC_ALL, "es_ES.utf8")
     sorted_categories = sorted(sub_categories, key=locale.strxfrm)
     # Reset locale.
     locale.setlocale(locale.LC_ALL, "")

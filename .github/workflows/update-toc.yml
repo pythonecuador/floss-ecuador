@@ -1,0 +1,27 @@
+name: Update table of contents
+on:
+  push:
+    branches:
+      - main
+jobs:
+  update-toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: lts
+
+      - name: Install doctoc
+        run: npm install -g doctoc
+
+      - name: Update table of contents
+        run: doctoc --maxlevel 3 README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m 'Update table of contents' || echo 'No changes to commit'
+          git push

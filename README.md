@@ -7,6 +7,34 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 
 ## Contenido
 
+<!-- START doctoc Table de contenidos generada automáticamente, no editar manualmente. -->
+<!-- NO EDITAR ESTA SECCIÓN MANUALMENTE, ES EDITADA AUTOMÁTICAMENTE AL HACER UN MERGE A MAIN. -->
+
+- [Software](#software)
+  - [Automatización](#automatizaci%C3%B3n)
+  - [Comunidades](#comunidades)
+  - [Django](#django)
+  - [Editores de código y plugins](#editores-de-c%C3%B3digo-y-plugins)
+  - [Firma electrónica](#firma-electr%C3%B3nica)
+  - [Hacking](#hacking)
+  - [IoT (Internet de las cosas)](#iot-internet-de-las-cosas)
+- [Odoo](#odoo)
+  - [Sistemas operativos](#sistemas-operativos)
+  - [Utilidades](#utilidades)
+- [Comunidades](#comunidades-1)
+- [Cómo contribuir](#c%C3%B3mo-contribuir)
+- [FAQ](#faq)
+  - [No vivo en Ecuador, ¿puedo agregar mi proyecto?](#no-vivo-en-ecuador-%C2%BFpuedo-agregar-mi-proyecto)
+  - [No tengo nacionalidad Ecuatoriana, pero vivo en Ecuador, ¿puedo agregar mi proyecto?](#no-tengo-nacionalidad-ecuatoriana-pero-vivo-en-ecuador-%C2%BFpuedo-agregar-mi-proyecto)
+  - [No quiero que mi proyecto aparezca en la lista, ¿cómo lo remuevo?](#no-quiero-que-mi-proyecto-aparezca-en-la-lista-%C2%BFc%C3%B3mo-lo-remuevo)
+  - [No quiero que mi comunidad aparezca en la lista, ¿cómo la remuevo?](#no-quiero-que-mi-comunidad-aparezca-en-la-lista-%C2%BFc%C3%B3mo-la-remuevo)
+  - [¿Puedo agregar mi proyecto que no es de código abierto o libre?](#%C2%BFpuedo-agregar-mi-proyecto-que-no-es-de-c%C3%B3digo-abierto-o-libre)
+  - [Mi comunidad trata sobre tecnología, ¿puedo agregarla?](#mi-comunidad-trata-sobre-tecnolog%C3%ADa-%C2%BFpuedo-agregarla)
+  - [Tengo un blog, canal, o red social dedicada al código abierto y libre, ¿puedo agregarla?](#tengo-un-blog-canal-o-red-social-dedicada-al-c%C3%B3digo-abierto-y-libre-%C2%BFpuedo-agregarla)
+- [TODO](#todo)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Software
 
 Lista de software de código abierto y libre desarrollado por Ecuatorianos.
@@ -97,7 +125,7 @@ un pull request, o contactarnos a <ecuadorpython@gmail.com> para removerla.
 Debes proveer información que demuestre que eres uno de los organizadores
 de la comunidad y opcionalmente una razón por la que quieres removerla.
 
-### Puedo agregar mi proyecto que no es de código abierto o libre?
+### ¿Puedo agregar mi proyecto que no es de código abierto o libre?
 
 No, este listado es exclusivo para proyectos de código abierto y libre
 desarrollados por Ecuatorianos.
@@ -124,3 +152,5 @@ Siéntete libre de crear un issue para discutirlo.
 - [ ] Agregar un script que ordene los proyectos y comunidades de forma alfabética.
 - [ ] CI.
 - [ ] Elegir otro nombre?
+- [ ] Crear un badge para mostrar en los proyectos y comunidades listadas?
+- [ ] Ampliar el enfoque a todo lo relacionado al código abierto y libre del Ecuador?

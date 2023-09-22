@@ -1,6 +1,6 @@
-# Listado de Software Libre y Open Source del Ecuador
+# Software Libre y Open Source del Ecuador
 
-Este proyecto tiene como objetivo principal reunir y destacar software de código abierto y libre desarrollado por Ecuatorianos, or  y comunidades del Ecuador dedicadas a ello.
+Este proyecto tiene como objetivo principal reunir y destacar software de código abierto y libre desarrollado por Ecuatorianos, y comunidades del Ecuador dedicadas a ello.
 Aquí encontrarás una colección diversa de proyectos de software que reflejan el espíritu de colaboración y la creatividad de la comunidad de código abierto en Ecuador.
 
 ¡Únete a nosotros y descubre el mundo del software libre y open source del Ecuador!
@@ -64,8 +64,8 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 ## Comunidades
 
-- [JavaScript Ecuador](https://javascript.ec): Comunidad sobre el lenguage de programación JavaScript.
-- [Python Ecuador](https://python.ec): Comunidad sobre el lenguage de programación Python.
+- [JavaScript Ecuador](https://javascript.ec): Comunidad sobre el lenguaje de programación JavaScript.
+- [Python Ecuador](https://python.ec): Comunidad sobre el lenguaje de programación Python.
 
 ## Cómo contribuir
 
@@ -108,6 +108,7 @@ Si tu comunidad tiene un enfoque o énfasis en el software libre u open source, 
 
 Por ahora no, este listado es exclusivo para proyectos de software y comunidades.
 Pero en el futuro podríamos ampliar este listado para agregar más contenido relacionado al código abierto y libre.
+Siéntete libre de crear un issue para discutirlo.
 
 ## TODO
 

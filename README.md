@@ -24,16 +24,10 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
   - [Sistemas operativos](#sistemas-operativos)
   - [Videojuegos](#videojuegos)
   - [Utilidades](#utilidades)
+- [Otros](#otros)
 - [Comunidades](#comunidades-1)
 - [Cómo contribuir](#c%C3%B3mo-contribuir)
 - [FAQ](#faq)
-  - [No vivo en Ecuador, ¿puedo agregar mi proyecto?](#no-vivo-en-ecuador-%C2%BFpuedo-agregar-mi-proyecto)
-  - [No tengo nacionalidad Ecuatoriana, pero vivo en Ecuador, ¿puedo agregar mi proyecto?](#no-tengo-nacionalidad-ecuatoriana-pero-vivo-en-ecuador-%C2%BFpuedo-agregar-mi-proyecto)
-  - [No quiero que mi proyecto aparezca en la lista, ¿cómo lo remuevo?](#no-quiero-que-mi-proyecto-aparezca-en-la-lista-%C2%BFc%C3%B3mo-lo-remuevo)
-  - [No quiero que mi comunidad aparezca en la lista, ¿cómo la remuevo?](#no-quiero-que-mi-comunidad-aparezca-en-la-lista-%C2%BFc%C3%B3mo-la-remuevo)
-  - [¿Puedo agregar mi proyecto que no es de código abierto o libre?](#%C2%BFpuedo-agregar-mi-proyecto-que-no-es-de-c%C3%B3digo-abierto-o-libre)
-  - [Mi comunidad trata sobre tecnología, ¿puedo agregarla?](#mi-comunidad-trata-sobre-tecnolog%C3%ADa-%C2%BFpuedo-agregarla)
-  - [Tengo un blog, canal, o red social dedicada al código abierto y libre, ¿puedo agregarla?](#tengo-un-blog-canal-o-red-social-dedicada-al-c%C3%B3digo-abierto-y-libre-%C2%BFpuedo-agregarla)
 - [TODO](#todo)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

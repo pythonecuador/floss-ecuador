@@ -7,6 +7,8 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
 
 ## Contenido
 
+<!-- NO EDITAR ESTA SECCIÓN MANUALMENTE, ES EDITADA AUTOMÁTICAMENTE AL HACER UN MERGE A MAIN. -->
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 

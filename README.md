@@ -2,7 +2,7 @@
 
 ¡Descubre el mundo del software libre y open source del Ecuador!
 
-Este proyecto tiene como objetivo principal reunir y destacar software de código abierto y libre desarrollado por Ecuatorianos, y comunidades del Ecuador dedicadas a ello.
+Este proyecto tiene como objetivo principal reunir y destacar software de código abierto y libre desarrollado por Ecuatorianos o sobre Ecuador, y comunidades del Ecuador dedicadas a ello.
 Aquí encontrarás una colección diversa de proyectos de software que reflejan el espíritu de colaboración y la creatividad de la comunidad de código abierto en Ecuador.
 
 ## Contenido
@@ -127,9 +127,9 @@ El contenido de la carpeta `scripts` está bajo la licencia [MIT](scripts/LICENS
 - [ ] Agregar un script para chequear la ortografía.
 - [ ] Agregar un script para generar un archivo JSON/CSV con los proyectos y comunidades.
 - [ ] Agregar un script que ordene los proyectos y comunidades de forma alfabética.
-- [ ] CI.
+- [x] CI.
 - [ ] Elegir otro nombre? Tal vez awesome-floss-ecuador? y aplicar para awesome-lists?
 - [ ] Crear un badge para mostrar en los proyectos y comunidades listadas?
-- [ ] Ampliar el enfoque a todo lo relacionado al código abierto y libre del Ecuador?
+- [x] Ampliar el enfoque a todo lo relacionado al código abierto y libre del Ecuador?
 - [ ] Decidir los términos a usar: código abierto, open source o código libre, free software o software libre, etc.
 - [ ] Agregar templates para agregar un nuevo proyecto o comunidad, PR, issue, etc

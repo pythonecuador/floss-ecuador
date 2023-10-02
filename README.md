@@ -75,9 +75,9 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 ### Odoo
 
-- [Localizacion Ecuatoriana OCA](https://github.com/OCA/l10n-ecuador) - Localizacion Ecuatoriana para Odoo Comunity V15(Facturas, NC, ND, Guias de remision, Retenciones). Repositorio Oficial para OCA, con funcionalidades estables
+- [Localizacion Ecuatoriana OCA](https://github.com/OCA/l10n-ecuador) - Localizacion Ecuatoriana para Odoo Comunity V15(Facturas, NC, ND, Guias de remision, Retenciones). Repositorio Oficial para OCA, con funcionalidades estables.
 - [Localizacion Ecuatoriana](https://github.com/Odoo-EC/l10n-ecuador) - Localizacion Ecuatoriana para Odoo Comunity V15(Facturas, NC, ND, Guias de remision, Retenciones). Repositorio con funcionalidades bajo desarrollo o no mergeadas en OCA aun.
-- [Instalador de Odoo con Doodba/Docker](https://github.com/Odoo-EC/odoo_installer) - Script y asistente para instalar docker e instancias de Odoo con la localizacion Ecuatoriana y generacion de SSL con Let's Encrypt
+- [Instalador de Odoo con Doodba/Docker](https://github.com/Odoo-EC/odoo_installer) - Script y asistente para instalar docker e instancias de Odoo con la localizacion Ecuatoriana y generacion de SSL con Let's Encrypt.
 
 ### Sistemas operativos
 

@@ -17,6 +17,7 @@ Aquí encontrarás una colección diversa de proyectos de software que reflejan 
   - [Comunidades](#comunidades)
   - [Django](#django)
   - [Editores de código y plugins](#editores-de-c%C3%B3digo-y-plugins)
+  - [Facturación](#facturaci%C3%B3n)
   - [Firma electrónica](#firma-electr%C3%B3nica)
   - [Hacking](#hacking)
   - [IoT (Internet de las cosas)](#iot-internet-de-las-cosas)
@@ -60,6 +61,10 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 - [fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim/) - Plugin de Vim/Neovim para gestionar los branches y tag de Git con fzf.
 - [spofity.nvim](https://github.com/stsewd/spotify.nvim/) - Integración de Spotify para Neovim.
+
+### Facturación
+
+- [open-factura](https://github.com/miguelangarano/open-factura/) - Facturación electrónica para Ecuador compatible con la ficha técnica para comprobantes electrónicos emitido por el SRI.
 
 ### Firma electrónica
 

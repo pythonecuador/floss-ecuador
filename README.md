@@ -74,6 +74,10 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 [Categoría vacía]
 
+### Privacidad
+
+- [maskmydoc](https://github.com/davcortez/MaskMyDoc) - Una aplicación web simple y segura para ocultar información sensible en documentos de identificación, con marca de agua automática "DATOSECUATORIANOS" y procesamiento completamente local.
+
 ### IoT (Internet de las cosas)
 
 [Categoría vacía]

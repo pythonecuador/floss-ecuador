@@ -74,10 +74,6 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 
 [Categoría vacía]
 
-### Privacidad
-
-- [maskmydoc](https://github.com/davcortez/MaskMyDoc) - Una aplicación web simple y segura para ocultar información sensible en documentos de identificación, con marca de agua automática "DATOSECUATORIANOS" y procesamiento completamente local.
-
 ### IoT (Internet de las cosas)
 
 [Categoría vacía]
@@ -87,6 +83,10 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 - [Localizacion Ecuatoriana OCA](https://github.com/OCA/l10n-ecuador) - Localizacion Ecuatoriana para Odoo Comunity V15(Facturas, NC, ND, Guias de remision, Retenciones). Repositorio Oficial para OCA, con funcionalidades estables.
 - [Localizacion Ecuatoriana](https://github.com/Odoo-EC/l10n-ecuador) - Localizacion Ecuatoriana para Odoo Comunity V15(Facturas, NC, ND, Guias de remision, Retenciones). Repositorio con funcionalidades bajo desarrollo o no mergeadas en OCA aun.
 - [Instalador de Odoo con Doodba/Docker](https://github.com/Odoo-EC/odoo_installer) - Script y asistente para instalar docker e instancias de Odoo con la localizacion Ecuatoriana y generacion de SSL con Let's Encrypt.
+
+### Privacidad
+
+- [maskmydoc](https://github.com/davcortez/MaskMyDoc) - Una aplicación web simple y segura para ocultar información sensible en documentos de identificación, con marca de agua automática "DATOSECUATORIANOS" y procesamiento completamente local.
 
 ### Sistemas operativos
 

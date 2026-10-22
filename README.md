@@ -65,6 +65,7 @@ Algunos proyectos tienen un emoji que indica su estado actual:
 ### Facturación
 
 - [open-factura](https://github.com/miguelangarano/open-factura/) - Facturación electrónica para Ecuador compatible con la ficha técnica para comprobantes electrónicos emitido por el SRI.
+- [ec-sri-invoice-signer](https://github.com/bryancalisto/ec-sri-invoice-signer) - Paquete de TypeScript para firmar comprobantes electrónicos del SRI. Publicado en [npm](https://www.npmjs.com/package/ec-sri-invoice-signer).
 
 ### Firma electrónica
 
